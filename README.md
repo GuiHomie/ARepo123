@@ -1,4 +1,2 @@
 # TestingWebsite
-A website
-
-It's a simple website.
+A website. Used for tests.
